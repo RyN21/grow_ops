@@ -35,7 +35,7 @@ This diagram shows all of our database tables and how they're linked to one anot
 
 # API's
 
-Building out this application, we consumes a few different API's.
+Building out this application, we consume a few different API's.
 
 ### Trefle API
   This is the main squeeze of our application. The trefle API has an exstensive collection of plants from vegetables to flowers, and even a variety of grass types to a variety of trees.
